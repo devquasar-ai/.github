@@ -9,3 +9,5 @@
 - 🧰 **Tools:** Claude Code plugins and utilities for local-first AI work (moving here)
 
 Founded by [Csaba Kecskemeti](https://github.com/csabakecskemeti).
+
+Support the work: <a href='https://ko-fi.com/L4L416YX7C' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi6.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
