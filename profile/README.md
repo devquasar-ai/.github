@@ -6,7 +6,9 @@
   open-weight models (GGUF), used by hundreds of thousands of downloads a month
 - 📝 **Blog:** [devquasar.com](https://devquasar.com): hands-on hardware, local inference, models
   and tools, measured on real machines
-- 🧰 **Tools:** Claude Code plugins and utilities for local-first AI work (moving here)
+- 🧰 **[DQ Plugin Vault](https://github.com/devquasar-ai/dq-plugin-vault):** free, local-first plugins for Claude Code:
+  a searchable archive of your sessions, and a voice for your agent
+  ([project page](https://devquasar.com/dq-plugin-vault/))
 
 Founded by [Csaba Kecskemeti](https://github.com/csabakecskemeti).
 
